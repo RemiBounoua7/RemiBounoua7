@@ -6,7 +6,7 @@ I intend on merging my 2 passions in new and exciting ways. I try to find novel 
 ### Take a look at my latest project : ✨_The Contenders App_✨
 A simple visual guide to recognize NBA title contenders, with tools to select date intervals, extract pictures and build exciting storylines !
 
-<a href="https://contenders-app.streamlit.app/"><img src="RemiBounoua7/Contenders-App-thumbnail.png" style="width:300px" alt='Contenders-App-thumbnail'/></a>
+<a href="https://contenders-app.streamlit.app/"><img src="Contenders-App-thumbnail.png" style="width:300px" alt='Contenders-App-thumbnail'/></a>
 
 If you have questions or inquiries, hit me up !
 <br>
