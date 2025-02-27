@@ -1,4 +1,4 @@
-## Hi 👋 I'm Rémi Bounoua, contributing to real world sports data analytics problems
+## Hi 👋 I'm Rémi Bounoua, 24 🇫🇷 Data Scientist
 
 I'm a passionate sports guy, I could talk about it for days. But I also am a Data Scientist.
 I intend on merging my 2 passions in new and exciting ways. I try to find novel methods to tackle existing real world problems, share my findings in a digestible yet elegant manner and provide value to those who read it.
