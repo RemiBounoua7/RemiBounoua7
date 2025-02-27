@@ -5,16 +5,16 @@ I intend on merging my 2 passions in new and exciting ways. I try to find novel 
 
 ### Take a look at my latest project : ✨_The Contenders App_✨
 A simple visual guide to recognize NBA title contenders, with tools to select date intervals, extract pictures and build exciting storylines !
-
-<a href="https://contenders-app.streamlit.app/"><img src="Contenders-App-thumbnail.png" style="width:300px" alt='Contenders-App-thumbnail'/></a>
-
+<div align="center" style="margin-top: 20px;">
+<a href="https://contenders-app.streamlit.app/"><img src="Contenders-App-thumbnail.png" style="width:400px" alt='Contenders-App-thumbnail'/></a>
+</div>
 If you have questions or inquiries, hit me up !
-<br>
-<center>
-<a href="https://www.linkedin.com/in/r%C3%A9mi-bounoua-539210201/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</a>  
-<a href="mailto:remibounoua.pro@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>  
-</center>
+
+<div align="center" style="margin-top: 20px;">
+      <a href="https://www.linkedin.com/in/r%C3%A9mi-bounoua-539210201/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+      </a>  
+      <a href="mailto:remibounoua.pro@gmail.com" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+      </a>  
+</div>
