@@ -3,12 +3,13 @@
 I'm a passionate sports guy, I could talk about it for days. But I also am a Data Scientist.
 I intend on merging my 2 passions in new and exciting ways. I try to find novel methods to tackle existing real world problems, share my findings in a digestible yet elegant manner and provide value to those who read it.
 
-### Take a look at my latest project : ✨_The Contenders App_✨
-A simple visual guide to recognize NBA title contenders, with tools to select date intervals, extract pictures and build exciting storylines !
-<div align="center" style="margin-top: 20px;">
+### Take a look at my latest project : ✨ The Contenders App ✨
+A simple visual guide to spot NBA title contenders, with tools to select date intervals, extract pictures and build exciting storylines !
+<div align="center" style="margin-top: 10px;">
 <a href="https://contenders-app.streamlit.app/"><img src="Contenders-App-thumbnail.png" style="width:400px" alt='Contenders-App-thumbnail'/></a>
 </div>
-If you have questions or inquiries, hit me up !
+
+If you have questions or a winning lottery ticket, hit me up !
 
 <div align="center" style="margin-top: 20px;">
       <a href="https://www.linkedin.com/in/r%C3%A9mi-bounoua-539210201/" target="_blank">
