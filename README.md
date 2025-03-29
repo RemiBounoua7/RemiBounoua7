@@ -2,11 +2,20 @@
 
 I'm a passionate sports guy, I could talk about it for days. But I also am a Data Scientist, and I intend on merging my 2 passions in new and exciting ways. I try to find novel methods to tackle existing real world problems, share my findings in a digestible yet elegant manner and provide value to those who read it.
 
-### Take a look at my latest project : ✨ The Contenders App ✨
-A simple visual guide to spot NBA title contenders, with tools to select date intervals, extract pictures and build exciting storylines !
+### Take a look at my latest project : ✨ The Scouting Report App ✨
+Graph NBA players' season shotchart and compare their averages to specific game performances.
+
+
 <div align="center" style="margin-top: 10px;">
-<a href="https://contenders-app.streamlit.app/"><img src="Contenders-App-thumbnail.png" style="width:400px" alt='Contenders-App-thumbnail'/></a>
+<a href="https://scouting-report.streamlit.app/"><img src="Scouting-Report-App-thumbnail.png" style="width:400px" alt='Scouting-Report-App-thumbnail'/></a>
 </div>
+- Generate Scouting Reports to deny opponents their favorite zones
+- Indetify outliers in shooting performances and adapt your conclusions
+- Derive meaning from new statistical measures : xPTS or how much points the player ought to score based on his shot selection and season averages
+- Compare stats to game film with NBA highlight videos to bolster you analyses
+- Save the graphs and share your findings online !
+
+
 
 If you have questions or a winning lottery ticket, hit me up !
 
