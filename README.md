@@ -10,7 +10,7 @@ Graph NBA players' season shotchart and compare their averages to specific game 
 <a href="https://scouting-report.streamlit.app/"><img src="Scouting-Report-App-thumbnail.png" style="width:700px" alt='Scouting-Report-App-thumbnail'/></a>
 </div>
 - Generate Scouting Reports to deny opponents their favorite zones<br>
-- Indetify outliers in shooting performances and adapt your conclusions<br>
+- Identify outliers in shooting performances and adapt your conclusions<br>
 - Derive meaning from new statistical measures : xPTS or how much points the player ought to score based on his shot selection and season averages<br>
 - Compare stats to game film with NBA highlight videos to bolster you analyses<br>
 - Save the graphs and share your findings online !<br><br>
